@@ -1,7 +1,5 @@
 // SPDX-License-Identifier: MIT
-pragma solidity ^0.8.20;
-
-contract BaseLoveNotes {
+pragma solidity ^0.8.20contract BaseLoveNotes {
     struct LoveNote {
         address sender;
         string message;
