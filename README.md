@@ -5,7 +5,7 @@ pragma solidity ^0.8.20contract BaseLoveNotes {
         string message;
         uint256 timestamp;
         uint256 tip;
-    }
+    } 1
 
     LoveNote[] public allNotes;
     event NewLoveNote(address indexed from, string message, uint256 tip);
