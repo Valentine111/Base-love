@@ -1,5 +1,5 @@
-83 DXh-License-Identifier: MIT
-pragma solidity ^0.8.20contract BaseLoveNotes {
+84 DXh-License-Identifier: MIT
+p4gma solidity ^0.8.20contract BaseLoveNotes {
     struct LoveNote {
         address sender;
         string message;
