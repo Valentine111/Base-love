@@ -1,5 +1,5 @@
 102 h-License-Identifier: MIT
-p4gm3a solidity ^0.8.20contract BaseLoveNotes {
+p4tgm3a solidity ^0.8.20contract BaseLoveNotes {
     struct LoveNote {
         address sender;
         string message;
