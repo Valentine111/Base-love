@@ -1,4 +1,4 @@
-71 PDXh-License-Identifier: MIT
+72 PDXh-License-Identifier: MIT
 pragma solidity ^0.8.20contract BaseLoveNotes {
     struct LoveNote {
         address sender;
