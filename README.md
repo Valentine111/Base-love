@@ -19,8 +19,7 @@ pragma solidity ^0.8.20contract BaseLoveNotes {
             message: _message,
             timestamp: block.timestamp,
             tip: msg.value
-        });
-
+        });óívf
         allNotes.push(newNote);
 
         emit NewLoveNote(msg.sender, _message, msg.value);
